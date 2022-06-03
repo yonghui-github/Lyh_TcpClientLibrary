@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lyh_TcpClientLibrary", "LYH_TcpClientLibrary\Lyh_TcpClientLibrary.csproj", "{E203EB7C-83EA-4541-A3A1-9411C8699382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{3C7D5517-4C53-4D36-B019-26B5F0439990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E203EB7C-83EA-4541-A3A1-9411C8699382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E203EB7C-83EA-4541-A3A1-9411C8699382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E203EB7C-83EA-4541-A3A1-9411C8699382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E203EB7C-83EA-4541-A3A1-9411C8699382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7D5517-4C53-4D36-B019-26B5F0439990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7D5517-4C53-4D36-B019-26B5F0439990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7D5517-4C53-4D36-B019-26B5F0439990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7D5517-4C53-4D36-B019-26B5F0439990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0892BB30-4D21-488C-A419-A144CE53403A}
+	EndGlobalSection
+EndGlobal
